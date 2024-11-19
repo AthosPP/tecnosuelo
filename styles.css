@@ -50,7 +50,7 @@ nav a {
 }
 
 .hero {
-    background-image: url('/img/intro.jpeg'); /* Reemplaza 'your-image.jpg' con la ruta de tu imagen */
+    background-image: url('img/intro.jpeg'); /* Reemplaza 'your-image.jpg' con la ruta de tu imagen */
     background-size: cover;
     background-position: center;
     color: white;
